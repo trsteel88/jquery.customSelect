@@ -1,0 +1,19 @@
+{
+  "name": "jquery.customselect",
+  "version": "0.5.1",
+  "description": "Custom Select Box CSS Style Plugin: jQuery + CSS",
+  "main": "jquery.customSelect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamcoulombe/jquery.customSelect.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adamcoulombe/jquery.customSelect/issues"
+  },
+  "homepage": "https://github.com/adamcoulombe/jquery.customSelect#readme"
+}
