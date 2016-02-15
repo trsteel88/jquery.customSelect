@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/adamcoulombe/jquery.customSelect/issues"
   },
-  "homepage": "https://github.com/adamcoulombe/jquery.customSelect#readme"
+  "homepage": "https://github.com/adamcoulombe/jquery.customSelect#readme",
+  "dependencies": {
+    "jquery": ">=1.7.2"
+  },
 }
